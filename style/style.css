@@ -21,3 +21,11 @@ header{
     height: 300px;
     border: 1px dashed red;
 }
+
+.about{
+    background-color: #1ABC9C;
+}
+
+.about-block{
+    height: 200px;
+}
