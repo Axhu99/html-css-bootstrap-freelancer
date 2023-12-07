@@ -6,3 +6,13 @@ header{
 [class^= "col"]{
     border: 1px dashed black;
 }
+
+.jumbotron{
+    height: 500px;
+    background-color: #1ABC9C;
+}
+
+.box-jumbo{
+    height: 100%;
+    border: 1px dashed black;
+}
