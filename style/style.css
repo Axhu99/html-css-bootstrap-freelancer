@@ -38,3 +38,11 @@ header{
     height: 100%;
     border: 1px dashed black;
 }
+
+.info{
+    background-color: #3A546D;
+}
+
+.info-block{
+    height: 100px;
+}
