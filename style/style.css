@@ -16,3 +16,8 @@ header{
     height: 100%;
     border: 1px dashed black;
 }
+
+.portfoglio-block{
+    height: 300px;
+    border: 1px dashed red;
+}
