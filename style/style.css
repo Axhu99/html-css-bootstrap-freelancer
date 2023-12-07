@@ -29,3 +29,12 @@ header{
 .about-block{
     height: 200px;
 }
+
+.contactme{
+    height: 300px;
+}
+
+.contactme-box{
+    height: 100%;
+    border: 1px dashed black;
+}
