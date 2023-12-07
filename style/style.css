@@ -46,3 +46,8 @@ header{
 .info-block{
     height: 100px;
 }
+
+footer{
+    height: 80px;
+    background-color: #2C3E50;
+}
