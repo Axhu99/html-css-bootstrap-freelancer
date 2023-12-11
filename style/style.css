@@ -57,6 +57,16 @@ header #navbarNav{
 
 .info{
     background-color: #3A546D;
+    color: #fff;
+}
+
+.info-title{
+    text-transform: uppercase;    
+}
+
+.social-icon{
+    width: 50px;
+    height: 50px;
 }
 
 footer{
