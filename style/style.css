@@ -1,10 +1,18 @@
 header{
-    height: 100px;
     background-color: #2C3E50;
 }
 
-[class^= "col"]{
-    border: 1px dashed black;
+header .navbar{
+    text-transform: uppercase;
+    font-weight: 600;
+}
+
+header .navbar a {
+    color: #fff;
+}
+
+header #navbarNav{
+    flex-grow: 0;
 }
 
 .jumbotron{
