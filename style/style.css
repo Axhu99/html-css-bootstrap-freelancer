@@ -44,21 +44,19 @@ header #navbarNav{
     color: #fff;
 }
 
-.contactme{
-    height: 200px;
+#contactme .form-control{
+    padding-left: 0;
+    border-radius: 0;
+    border-width: 0 0 1px 0;
 }
 
-.contactme-box{
-    height: 100%;
-    border: 1px dashed black;
+#contactme .form-control::placeholder{
+    color: rgb(33, 37, 41);
+    font-weight: 500;
 }
 
 .info{
     background-color: #3A546D;
-}
-
-.info-block{
-    height: 100px;
 }
 
 footer{
