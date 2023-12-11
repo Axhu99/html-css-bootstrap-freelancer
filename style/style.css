@@ -16,13 +16,17 @@ header #navbarNav{
 }
 
 .jumbotron{
-    height: 500px;
     background-color: #1ABC9C;
 }
 
-.box-jumbo{
-    height: 100%;
-    border: 1px dashed black;
+.jumbotron-img{
+    width: 60%;
+}
+
+.jumbo-info{
+    color: #fff;
+    text-transform: uppercase;
+    font-weight: 500;
 }
 
 .portfoglio-block{
