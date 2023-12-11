@@ -29,9 +29,9 @@ header #navbarNav{
     font-weight: 500;
 }
 
-.portfoglio-block{
-    height: 300px;
-    border: 1px dashed red;
+.portfolio-title{
+    text-transform: uppercase;
+    font-weight: 500;
 }
 
 .about{
